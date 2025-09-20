@@ -12,7 +12,6 @@ A web-based application designed to streamline the process of handling complaint
 - [System Architecture](#system-architecture)
 - [Installation Guide](#installation-guide)
 - [Usage Instructions](#usage-instructions)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
